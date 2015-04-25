@@ -1,4 +1,4 @@
-package scala.warmup.maximizingxor
+package scl.warmup.maximizingxor
 
 /**
  * https://www.hackerrank.com/challenges/maximizing-xor

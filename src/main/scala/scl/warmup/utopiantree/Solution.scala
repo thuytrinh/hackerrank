@@ -1,4 +1,4 @@
-package scala.warmup.utopiantree
+package scl.warmup.utopiantree
 
 /**
  * https://www.hackerrank.com/challenges/utopian-tree

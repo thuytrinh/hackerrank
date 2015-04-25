@@ -1,4 +1,4 @@
-package scala.warmup.maximizingxor
+package scl.warmup.maximizingxor
 
 import org.scalatest.FunSuite
 

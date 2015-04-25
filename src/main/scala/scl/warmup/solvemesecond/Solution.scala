@@ -1,4 +1,4 @@
-package scala.warmup.solvemesecond
+package scl.warmup.solvemesecond
 
 /**
  * https://www.hackerrank.com/challenges/solve-me-second
